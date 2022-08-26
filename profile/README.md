@@ -1,12 +1,15 @@
-## Hi there 👋
+# :alien: Trixie
+## End-to-end no code token management platform. 
 
-<!--
+:zap: Built and open sourced by the Trixie-Labs team for the Encode - Chainlink Hackathon
 
-**Here are some ideas to get you started:**
+:open_book: Access the whitepaper here - https://trixieplatform.gitbook.io/trixie/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+:desktop_computer: Access the Kovan testnet developer alpha here - https://trixieplatform.netlify.app/
+
+### :telephone_receiver: Contact
+
+#### :construction: Engineering queries
+William Cisotto (Co-Founder / CTO) https://www.linkedin.com/in/william-galindo-cisotto/
+#### :office: Business queries
+Rhen Quadros (Co-Founder / CEO) https://www.linkedin.com/in/rhenquadros/
