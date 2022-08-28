@@ -7,6 +7,9 @@
 
 :desktop_computer: Access the Kovan testnet developer alpha here - https://trixieplatform.netlify.app/
 
+:droplet: Kovan faucet - fhttps://faucets.chain.link/
+
+
 ### :telephone_receiver: Contact
 
 #### :construction: Engineering queries
